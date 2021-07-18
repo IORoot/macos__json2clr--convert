@@ -1,8 +1,6 @@
+# 🌈 MacOS .JSON to .CLR Color Palette Converter 
 
-# MacOS .JSON to .CLR Converter
-
-Useful for converting a JSON file into an Apple CLR Colour Palette which can then be imported into the Apple Colorpicker
-
+Useful for converting a JSON file into an Apple CLR Colour Palette which can then be imported into the Apple Colorpicker panel.
 
 ## Credit
 
@@ -31,9 +29,12 @@ This little script will ask for an input JSON file, a target output location, an
 
 ![Run JSONtoCLR](docs/video_jsontoclr.gif)
 
+
+## Demo Palette
+
 ### tailwind_v2.json
 
-This is the source of the colour palette. You can add / remove colours or supply your own JSON file with your own palettes.
+This is an example source colour palette. You can add / remove colours or supply your own JSON file with your own palette.
 
 ### tailwind_v2.clr
 
