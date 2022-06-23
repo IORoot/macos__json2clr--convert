@@ -27,7 +27,7 @@ This little script will ask for an input JSON file, a target output location, an
 
 ## Usage
 
-![Run JSONtoCLR](docs/video_jsontoclr.gif)
+![Run JSONtoCLR](https://github.com/IORoot/macos__json2clr--convert/blob/33a906d9e640b509cf7005ad7f855f3f738fb0ad/docs/video_jsontoclr.gif)
 
 
 ## Demo Palette
