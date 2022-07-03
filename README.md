@@ -3,9 +3,8 @@
 
 <div align="center">
 
-<div style="filter: invert(87%) sepia(19%) saturate(4612%) hue-rotate(172deg) brightness(103%) contrast(98%);">
-<img src="https://cdn.jsdelivr.net/npm/@mdi/svg@6.7.96/svg/palette-swatch.svg" style="width:200px;"/>
-</div>
+
+<img src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40mdi%2Fsvg%406.7.96%2Fsvg%2Fpalette-swatch.svg&fill=%2360A5FA&width=200px&height=200px" style="width:200px;"/>
 
 <h3 align="center">🌈 MacOS .JSON to .CLR Color Palette Converter </h3>
 
